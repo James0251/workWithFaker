@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "box/spout": "^3.1"
+    }
+}
